@@ -1,0 +1,11 @@
+.\adc.o: adc.c
+.\adc.o: C:\Keil\ARM\Inc\Philips\LPC214x.h
+.\adc.o: types.h
+.\adc.o: adc.h
+.\adc.o: types.h
+.\adc.o: adc_defines.h
+.\adc.o: pin_block.h
+.\adc.o: types.h
+.\adc.o: pin_block_defines.h
+.\adc.o: delay.h
+.\adc.o: types.h

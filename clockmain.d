@@ -1,0 +1,17 @@
+.\clockmain.o: clockmain.c
+.\clockmain.o: C:\Keil\ARM\Inc\Philips\LPC214x.h
+.\clockmain.o: types.h
+.\clockmain.o: delay.h
+.\clockmain.o: types.h
+.\clockmain.o: rtc.h
+.\clockmain.o: types.h
+.\clockmain.o: lcd.h
+.\clockmain.o: types.h
+.\clockmain.o: adc.h
+.\clockmain.o: types.h
+.\clockmain.o: adc_defines.h
+.\clockmain.o: kpm.h
+.\clockmain.o: types.h
+.\clockmain.o: lcd_defines.h
+.\clockmain.o: rtc_defines.h
+.\clockmain.o: kpm_defines.h

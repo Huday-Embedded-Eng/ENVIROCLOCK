@@ -1,0 +1,13 @@
+--cpu ARM7TDMI
+".\startup.o"
+".\adc.o"
+".\delay.o"
+".\pin_connect_block.o"
+".\lcd.o"
+".\rtc.o"
+".\clockmain.o"
+".\kpm.o"
+--strict --scatter ".\enviroclk.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\enviroclk.map" -o .\enviroclk.axf
